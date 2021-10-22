@@ -1,42 +1,42 @@
 @font-face {
    font-family: Kazimir; /* Имя шрифта */
-   src: url(fonts/Kazimir.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/Kazimir.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirItalic; /* Имя шрифта */
-   src: url(fonts/KazimirItalic.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirItalic.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirBlack; /* Имя шрифта */
-   src: url(fonts/KazimirBlack.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirBlack.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirBlackItalic; /* Имя шрифта */
-   src: url(fonts/KazimirBlackItalic.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirBlackItalic.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirBold; /* Имя шрифта */
-   src: url(fonts/KazimirBold.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirBold.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirBoldItalic; /* Имя шрифта */
-   src: url(fonts/KazimirBoldItalic.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirBoldItalic.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirLight; /* Имя шрифта */
-   src: url(fonts/KazimirLight.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirLight.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirLightItalic; /* Имя шрифта */
-   src: url(fonts/KazimirLightItalic.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirLightItalic.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirMedium; /* Имя шрифта */
-   src: url(fonts/KazimirMedium.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirMedium.otf); /* Путь к файлу со шрифтом */
 }
 @font-face {
    font-family: KazimirMediumItalic; /* Имя шрифта */
-   src: url(fonts/KazimirMediumItalic.otf); /* Путь к файлу со шрифтом */
+   src: url(../fonts/KazimirMediumItalic.otf); /* Путь к файлу со шрифтом */
 }
 
 body {
